@@ -1,0 +1,5 @@
+# AWS Certs
+iot/.device_cert/*
+
+# VS Code
+.vscode/settings.json
